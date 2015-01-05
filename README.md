@@ -3,7 +3,7 @@ PeakFinder
 
 Supplementary material for [Genome-wide mapping of the cohesin complex in the yeast Saccharomyces cerevisiae](http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.0020259) including Delphi source code for *PeakFinder* program.  The paper can also be found at [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC490026/).
 
-Browse the **[Quick Start Guide](http://htmlpreview.github.io/?https://github.com/EarlGlynn/PeakFinder/blob/master/PeakFinderQuickStart.pdf)** or the complete **[Users Guide](http://htmlpreview.github.io/?https://github.com/EarlGlynn/PeakFinder/blob/master/PeakFinderUsersGuide.pdf)**.
+Browse the **[Quick Start Guide](https://github.com/EarlGlynn/PeakFinder/blob/master/PeakFinderQuickStart.pdf?raw=true)** or the complete **[Users Guide](https://github.com/EarlGlynn/PeakFinder/blob/master/PeakFinderUsersGuide.pdf?raw=true)**.
 
 The *[PeakFinder Program page](http://research.stowers-institute.org/gertonlab/peakfinder/index.html)* at Stowers Institute has several stale links.
 
