@@ -17,3 +17,4 @@ The Delphi program used components unique to .xls Excel files, so it no longer w
 
 ![Sample output from PeakFinder](Figure2-Mcd1-18Myc-Scerevisiae-W303a.jpg).
 
+Also see *[efg's Research Notes](http://research.stowers.org/efg/)* at Stowers Institute.
